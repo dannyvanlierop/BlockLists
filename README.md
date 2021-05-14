@@ -1,2 +1,0 @@
-# BlockLists
- Domain filter lists
